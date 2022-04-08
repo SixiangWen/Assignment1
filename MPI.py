@@ -116,6 +116,9 @@ def main(file_path1,file_path2):
 if __name__ == "__main__":
     # simple test for working on git
 
+
+    # second simple test
+
     # main('/data/projects/COMP90024/bigTwitter.json','/data/projects/COMP90024/sydGrid.json')
     main('smallTwitter.json', 'sydGrid.json')
 
