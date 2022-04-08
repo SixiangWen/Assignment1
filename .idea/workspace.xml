@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5853ffca-7659-464d-88d5-7286ee276bc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26TAqetwjFZFXb4Bq9RcJ6lJFHY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.mpitest">
+    <configuration name="env" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/env.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../untitled" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../untitled/hi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mpitest" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mpitest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="original_codes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/original_codes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.mpitest" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.env" />
+      <item itemvalue="Python.hi" />
+      <item itemvalue="Python.original_codes" />
+      <item itemvalue="Python.util" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.original_codes" />
+        <item itemvalue="Python.util" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.env" />
+        <item itemvalue="Python.hi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5853ffca-7659-464d-88d5-7286ee276bc8" name="Default Changelist" comment="" />
+      <created>1647437394333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647437394333</updated>
+      <workItem from="1647437395529" duration="5847000" />
+      <workItem from="1647444667806" duration="4000" />
+      <workItem from="1647446199785" duration="12919000" />
+      <workItem from="1647592979408" duration="69000" />
+      <workItem from="1647593064079" duration="7000" />
+      <workItem from="1647593124104" duration="79000" />
+      <workItem from="1647593206235" duration="614000" />
+      <workItem from="1647593862704" duration="48000" />
+      <workItem from="1647594070601" duration="140000" />
+      <workItem from="1647594741403" duration="932000" />
+      <workItem from="1647596103302" duration="315000" />
+      <workItem from="1647596521423" duration="1425000" />
+      <workItem from="1647607561682" duration="3000" />
+      <workItem from="1647609328390" duration="6688000" />
+      <workItem from="1647756824695" duration="63615000" />
+      <workItem from="1649424677050" duration="545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647596888172">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="104" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.739@0.23.1280.739" timestamp="1647596888172" />
+    <state x="373" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647595692764">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="373" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.739@0.23.1280.739" timestamp="1647595692764" />
+    <state width="1238" height="230" key="GridCell.Tab.0.bottom" timestamp="1649169509089">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1238" height="230" key="GridCell.Tab.0.bottom/0.23.1280.739@0.23.1280.739" timestamp="1649169509089" />
+    <state width="1238" height="185" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1648462072364" />
+    <state width="1238" height="230" key="GridCell.Tab.0.center" timestamp="1649169509087">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1238" height="230" key="GridCell.Tab.0.center/0.23.1280.739@0.23.1280.739" timestamp="1649169509087" />
+    <state width="1238" height="185" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1648462072363" />
+    <state width="1238" height="230" key="GridCell.Tab.0.left" timestamp="1649169509086">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1238" height="230" key="GridCell.Tab.0.left/0.23.1280.739@0.23.1280.739" timestamp="1649169509086" />
+    <state width="1238" height="185" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1648462072362" />
+    <state width="1238" height="230" key="GridCell.Tab.0.right" timestamp="1649169509088">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1238" height="230" key="GridCell.Tab.0.right/0.23.1280.739@0.23.1280.739" timestamp="1649169509088" />
+    <state width="1238" height="185" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1648462072363" />
+    <state width="1238" height="230" key="GridCell.Tab.1.bottom" timestamp="1649169509093">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1238" height="230" key="GridCell.Tab.1.bottom/0.23.1280.739@0.23.1280.739" timestamp="1649169509093" />
+    <state width="1238" height="230" key="GridCell.Tab.1.center" timestamp="1649169509092">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1238" height="230" key="GridCell.Tab.1.center/0.23.1280.739@0.23.1280.739" timestamp="1649169509092" />
+    <state width="1238" height="230" key="GridCell.Tab.1.left" timestamp="1649169509091">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1238" height="230" key="GridCell.Tab.1.left/0.23.1280.739@0.23.1280.739" timestamp="1649169509091" />
+    <state width="1238" height="230" key="GridCell.Tab.1.right" timestamp="1649169509092">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1238" height="230" key="GridCell.Tab.1.right/0.23.1280.739@0.23.1280.739" timestamp="1649169509092" />
+    <state x="141" y="31" key="SettingsEditor" timestamp="1649425222381">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="141" y="31" key="SettingsEditor/0.23.1280.739@0.23.1280.739" timestamp="1649425222381" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment1$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1648221364051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment1$hi.coverage" NAME="hi Coverage Results" MODIFIED="1647595712943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../untitled" />
+    <SUITE FILE_PATH="coverage/Assignment1$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1647594152259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../test" />
+    <SUITE FILE_PATH="coverage/Assignment1$test.coverage" NAME="test Coverage Results" MODIFIED="1648453273824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment1$original_codes.coverage" NAME="original_codes Coverage Results" MODIFIED="1648558254564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment1$env.coverage" NAME="env Coverage Results" MODIFIED="1647612343877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment1$mpitest.coverage" NAME="mpitest Coverage Results" MODIFIED="1648727298363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
